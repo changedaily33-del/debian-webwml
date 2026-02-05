@@ -1,0 +1,30 @@
+)]}'
+{
+  "commit": "6dc9af1b583e5c6a4ab9c38e3f5646efd8079b7d",
+  "tree": "987d7ce206d2df1ac1fa3752154532788ee84fe1",
+  "parents": [
+    "c6f9c6e33023a58c98285685803ce4e2340d3f28"
+  ],
+  "author": {
+    "name": "The Android Open Source Project",
+    "email": "initial-contribution@android.com",
+    "time": "Tue Dec 02 04:15:20 2025 +0000"
+  },
+  "committer": {
+    "name": "The Android Open Source Project",
+    "email": "initial-contribution@android.com",
+    "time": "Tue Dec 02 04:15:20 2025 +0000"
+  },
+  "message": "Update android-latest-release to android16-qpr2-release\n\nBUG: 457231668\nChange-Id: I6f728bdad901b54106c7f9d117dd79b6e97741eb\n",
+  "tree_diff": [
+    {
+      "type": "modify",
+      "old_id": "cdddcea7cb1ce376f00cdfe17d4273f5f485853c",
+      "old_mode": 33188,
+      "old_path": "default.xml",
+      "new_id": "54e5849c84beba7a18388455b6a4134cbef64bd9",
+      "new_mode": 33188,
+      "new_path": "default.xml"
+    }
+  ]
+}
